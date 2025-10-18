@@ -56,7 +56,8 @@ cd Dream-Journal
 Install the project dependencies:
 
 npm install 
-# or 
+
+
 # yarn install
 
 ### 2\. Configuration
